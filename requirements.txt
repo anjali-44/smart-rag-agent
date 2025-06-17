@@ -1,0 +1,16 @@
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+cassio
+astrapy
+tiktoken
+gradio
+huggingface-hub
+pydantic
+IPython
+beautifulsoup4
+sentence-transformers
+wikipedia
